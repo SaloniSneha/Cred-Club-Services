@@ -1,0 +1,6 @@
+{
+  "name": "CRED Clone",
+  "description": "A premium, dark-themed CRED clone featuring interactive gamified card mechanics, dynamic coin and gem balances, and fluid micro-animations.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
